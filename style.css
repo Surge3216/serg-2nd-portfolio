@@ -1,0 +1,138 @@
+#thetop{
+    padding-left: 6pc;    
+}
+.span1{
+    margin-top: 23px;
+    margin-right: 10px;
+    margin-left: -2pc;
+}
+#myname{
+    margin: auto;
+}
+.txt{
+    color: white !important;
+    font-family: Consolas, monaco, monospace; 
+    font-style: normal !important; 
+    font-variant: normal !important; 
+    font-weight: 400 !important; 
+    line-height: 40px !important; 
+}
+.txt2{
+    color: rgb(0, 0, 0);
+    font-family: Consolas, monaco, monospace; 
+    font-style: normal !important; 
+    font-variant: normal !important; 
+    font-weight: 400 !important; 
+    line-height: 20px !important; 
+}
+.text{
+    color: white !important;
+    text-align: center !important;
+}
+.hero{
+    background-image: url(/assets/code.jpg);
+    background-repeat: no-repeat;
+    background-size: 100pc 750px;
+}
+progress{
+    width: auto i !important;
+}
+.bubbles{
+    background-color: rgb(34,33,44) !important;
+}
+.bubble{
+    background-color: rgb(34,33,44) !important;
+    height: min-content !important;
+    align-items: center;
+    padding: 0 !important;
+}
+.blue{
+    background-color:rgb(16,138,180)!important;
+}
+.pink{
+    background-color: rgb(162,30,78) !important;
+}
+.yellow{
+    background-color: rgb(218, 215, 64) !important;
+}
+.holder{
+    margin-top: 10px !important;
+    margin-left: 4pc !important;
+    margin-right: 4pc !important;
+}
+#topLinks{
+   margin-right: 6pc !important;
+   margin-left: auto;
+}
+.na{
+    color: white !important;
+    margin-top: 15px;
+}
+#myphoto{
+    padding: auto;
+    margin: auto;
+}
+#aboutme{
+    font-size: 13pt;
+    color: white;
+    margin-right: 10px;
+}
+#info{
+    text-align: center;
+}
+#mystuff{
+    margin-right: 5px;
+}
+#contact{
+    margin-bottom: 15px;
+}
+#po{
+    height: auto;
+    background-color:rgb(21,19,32) !important;
+}
+.links{
+    text-align: center !important;
+}
+#footer{
+    padding-left: 20px;
+}
+progress{
+    margin-top: 8px;
+    float: right !important;
+    width: 300px !important;
+    
+}
+.bars{
+margin: 15px;
+}
+#hobby{
+    margin-bottom: 0;
+}
+#techicons{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.con{
+    margin-left: 4pc;
+}
+.mar{
+    margin-left: 3pc !important;
+    margin-right: 3pc !important;
+}
+
+.is-4{
+    line-height: 1.5 !important;
+}
+figure{
+    margin-top: 0 !important;
+    width: fit-content;
+}
+.center{
+margin-left: auto!important;
+margin-right: auto !important;
+}
+#error{
+    margin-top: 20pc !important;
+    margin-bottom: 20pc;
+    margin-left: 3pc !important;
+}
