@@ -10,7 +10,7 @@ The portfolio was created useing bulma allowing me to quicky layout my website n
 
 Navbar
 
-![Navbar and the landing page](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/nav.png)
+![Navbar and the landing page](/assets/nav.png)
 
 About Me Page
 
@@ -19,11 +19,11 @@ About Me Page
 
 Portfolio
 
-![Portfolio section with images and links](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/Projects.PNG)
+![Portfolio section with images and links](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/Projects.png)
 
 Contact Page
 
-![Contact page with contact form and links to github, linkedin and my resume](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/contact.PNG)
+![Contact page with contact form and links to github, linkedin and my resume](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/contact.png)
 
 # Links
 
