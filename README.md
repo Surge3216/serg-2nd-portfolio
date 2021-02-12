@@ -9,7 +9,7 @@ The portfolio was created useing bulma allowing me to quicky layout my website n
 # Images
 
 Navbar 
-![Navbar and the landing page](/Assets/nav.PNG)
+![Navbar and the landing page](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/Calendar.png)
 
 About Me Page
 ![About Me page with introduction and professional photo](/Assets/aboutme.PNG)
