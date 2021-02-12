@@ -30,7 +30,7 @@
     text-align: center !important;
 }
 .hero{
-    background-image: url(/assets/code.png);
+    background-image: url(assets/code.png);
     background-repeat: no-repeat;
     background-size: 100pc 750px;
 }
