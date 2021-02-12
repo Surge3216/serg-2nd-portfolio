@@ -13,14 +13,17 @@ Navbar
 ![Navbar and the landing page](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/nav.png)
 
 About Me Page
+
 ![About Me page with introduction and professional photo](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/aboutme.PNG)
 
 
 Portfolio
+
 ![Portfolio section with images and links](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/Projects.PNG)
 
 Contact Page
-![Contact page with contact form and links to github, linkedin and my resume](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/.PNG)
+
+![Contact page with contact form and links to github, linkedin and my resume](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/contact.PNG)
 
 # Links
 
