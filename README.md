@@ -9,17 +9,17 @@ The portfolio was created useing bulma allowing me to quicky layout my website n
 # Images
 
 Navbar 
-![Navbar and the landing page](/assets/nav.PNG)
+![Navbar and the landing page](/Assets/nav.PNG)
 
 About Me Page
-![About Me page with introduction and professional photo](/assets/aboutme.PNG)
+![About Me page with introduction and professional photo](/Assets/aboutme.PNG)
 
 
 Portfolio
-![Portfolio section with images and links](/assets/Projects.PNG)
+![Portfolio section with images and links](/Assets/Projects.PNG)
 
 Contact Page
-![Contact page with contact form and links to github, linkedin and my resume](/assets/contact.PNG)
+![Contact page with contact form and links to github, linkedin and my resume](/Assets/contact.PNG)
 
 # Links
 
