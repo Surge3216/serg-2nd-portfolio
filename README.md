@@ -14,7 +14,7 @@ Navbar
 
 About Me Page
 
-![About Me page with introduction and professional photo](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/aboutme.png
+![About Me page with introduction and professional photo](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/aboutme.png)
 
 
 Portfolio
