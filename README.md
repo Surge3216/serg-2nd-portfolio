@@ -13,20 +13,19 @@ Navbar
 ![Navbar and the landing page](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/nav.png)
 
 About Me Page
-![About Me page with introduction and professional photo](/Assets/aboutme.PNG)
+![About Me page with introduction and professional photo](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/aboutme.PNG)
 
 
 Portfolio
-![Portfolio section with images and links](/Assets/Projects.PNG)
+![Portfolio section with images and links](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/Projects.PNG)
 
 Contact Page
-![Contact page with contact form and links to github, linkedin and my resume](/Assets/contact.PNG)
+![Contact page with contact form and links to github, linkedin and my resume](https://github.com/Surge3216/serg-2nd-portfolio/blob/master/assets/.PNG)
 
 # Links
 
 - Repository: https://github.com/arianaw15/Portfolio
 - Portfolio Homepage: https://arianaw15.github.io/Portfolio/
-- LinkedIn: https://www.linkedin.com/in/ariana-winters-63455215b/
 
 # License
 
