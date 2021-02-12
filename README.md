@@ -28,7 +28,7 @@ Contact Page
 # Links
 
 - Repository: https://github.com/arianaw15/Portfolio
-- Portfolio Homepage: https://arianaw15.github.io/Portfolio/
+- Portfolio Homepage: https://surge3216.github.io/serg-2nd-portfolio/
 
 # License
 
