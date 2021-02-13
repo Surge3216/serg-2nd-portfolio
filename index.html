@@ -174,30 +174,27 @@
         <div class="tile is-parent is-5 center">
           <article class="tile is-child box pink center">
             <h1 id="info" class="title text">Contact Me</h1>
-            <div class="field">
+            <form class="field" method="post" action="contact-form.php">
                 <label class="label txt">Name</label>
                 <div class="control">
-                  <input class="input" type="text" placeholder="e.g Alex Smith">
+                  <input name = "name" class="input" type="text" placeholder="Your Name" required>
                 </div>
-              </div>
-            <div class="field">
                 <label class="label txt">Email</label>
                 <div class="control has-icons-left has-icons-right">
-                  <input class="input" type="email" placeholder="Email input">
+                  <input name = "email" class="input" type="email" placeholder="Your Email" required>
                   <span class="icon is-small is-left">
                     <i class="fas fa-envelope"></i>
                   </span>
                 </div>
-            </div>
-            <div class="field">
                 <label class="label txt">Message</label>
                 <div class="control">
-                  <textarea class="textarea" placeholder="Textarea"></textarea>
+                  <textarea name = "message" class="textarea" placeholder="Textarea" required></textarea>
                 </div>
-            </div>
-            <div class="control">
-                <button class="button blue txt">Submit</button>
-              </div>
+                <div class="control">
+                  <input type="submit" class="button blue txt form-control" value="Send">
+                </div>
+              </form>
+
           </article>
         </div>
         </div>
