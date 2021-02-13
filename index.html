@@ -6,19 +6,20 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
     <script src="https://kit.fontawesome.com/0bf24acb61.js" crossorigin="anonymous"></script>
         <title>Sergio's Portfolio</title>
-
-
-          
 </head>
 
 <body id="po" class="has-navbar-fixed-top">
     <nav id="thetop" class="navbar is-fixed-top bubbles block">
-        <span class="icon image span1 is-100x110">
-            <img class="is-rounded" src="assets/apicofme.png">
-          </span>
-              <h1 id = "name" class = "title is-4 na"> Sergio Campos</h1>
+        
               <div  class="navbar-menu">
-                <div id="topLinks" class="navbar-start">
+                <div id="topLinks" class="navbar-brand">
+                  <span class="icon image span1 is-100x110">
+                    <img class="is-rounded" src="assets/apicofme.png">
+                  </span>
+                  <h1 id = "name" class = "title is-4 span1">Sergio Campos</h1>
+                </div>
+                <div class="navbar-end">
+                      
                   <a href="#aboutMe" class="navbar-item text">
                     About me
                   </a>
@@ -30,6 +31,12 @@
                   <a href="#contact" class="navbar-item text">
                     Contact Me
                   </a>
+                  <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                  </a>
+                  
                   </div>
                 </div>
     </nav>
@@ -145,9 +152,13 @@
               </figure>
             <p class="title txt">Workday Calendar</p>
             <p class="subtitle txt">View <a href="https://surge3216.github.io/Sergio-workday_calender/ " class="txt2">Here</a></p>
-            <p class="subtitle is-4 txt">A workday calendar that served as my introduction to local API's.
-                To plan out your workday, save events to your local storage that changes through out the day to make sure you 
-                know exactly what hour of the day your in.
+            <p class="subtitle is-4 txt">
+              A workday calendar that served as 
+              my introduction to local API's.
+              To plan out your workday, save events 
+              to your local storage that changes 
+              through out the day to make sure you 
+              know exactly what hour of the day your in.
             </p>
           </article>
         </div>
@@ -192,7 +203,6 @@
         </div>
       </div>
     </div>
-
     </div>
 
     <footer id= "footer" class="footer bubble columns">

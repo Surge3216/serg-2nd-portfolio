@@ -1,10 +1,10 @@
 #thetop{
-    padding-left: 6pc;    
+    padding-left: 65px;    
 }
 .span1{
-    margin-top: 23px;
-    margin-right: 10px;
-    margin-left: -2pc;
+    margin-right: 10px !important;
+    margin:auto;
+    color: white !important;
 }
 #myname{
     margin: auto;
@@ -56,14 +56,6 @@
     margin-top: 10px !important;
     margin-left: 4pc !important;
     margin-right: 4pc !important;
-}
-#topLinks{
-   margin-right: 6pc !important;
-   margin-left: auto;
-}
-.na{
-    color: white !important;
-    margin-top: 15px;
 }
 #myphoto{
     padding: auto;
