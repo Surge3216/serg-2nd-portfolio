@@ -7,7 +7,7 @@
     color: white !important;
 }
 #myname{
-    margin: auto;
+    margin: 0;
 }
 .txt{
     color: white !important;
@@ -32,7 +32,11 @@
 .hero{
     background-image: url(assets/code.png);
     background-repeat: no-repeat;
-    background-size: 100pc 750px;
+    background-size: 100% auto;
+}
+.hero-body{
+    width: 100% !important;
+    height: auto !important;
 }
 .bubbles{
     background-color: rgb(34,33,44) !important;
@@ -126,7 +130,12 @@ margin-right: auto !important;
     margin-left: 3pc !important;
 }
 .pho{
-height: 360px;
-width: 360px;
+height: auto;
+width: 100%;
+margin: auto !important;
+}
+.pho{
+height: auto;
+width: 100%;
 margin: auto !important;
 }
